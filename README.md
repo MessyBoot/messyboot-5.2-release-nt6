@@ -71,5 +71,3 @@
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
 <p><a href="mailto:messyboot@gmail.com">messyboot@gmail.com</a></p>
-      </section>
-    </div>
