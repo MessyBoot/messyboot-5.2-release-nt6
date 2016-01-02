@@ -1,14 +1,5 @@
-# messyboot-5.2-release-nt6
-Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
+
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-    <title>Messyboot-5.2-release-nt6 by MessyBoot</title>
-  </head>
   <body>
     <div class="container">
       <section id="main_content">
@@ -82,7 +73,3 @@ Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
 <p><a href="mailto:messyboot@gmail.com">messyboot@gmail.com</a></p>
       </section>
     </div>
-
-    
-  </body>
-</html>
