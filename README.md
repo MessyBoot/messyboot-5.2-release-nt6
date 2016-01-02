@@ -1,9 +1,8 @@
 <html>
-  <body>
-    <div class="container">
-      <section id="main_content">
-        <h1>
-<a id="messyboot-52-windows-nt6-build" class="anchor" href="#messyboot-52-windows-nt6-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT6 Build</h1><h4>Full Release</h4>
+<body>
+<div class="container">
+<section id="main_content">
+<h1><a id="messyboot-52-windows-nt6-build" class="anchor" href="#messyboot-52-windows-nt6-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT6 Build</h1><h4>Full Release</h4>
 
 <h2>
 <a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers</h2>
@@ -57,6 +56,8 @@
 <li>Windows 8 (x86/x64)</li>
 <li>Windows 8.1 (x86/x64)</li>
 <li>Windows 10 (x86/x64)</li>
+<li>Windows Server 2008 (x86/x64)</li>
+<li>Windows Home Server 2011 (x86/x64)</li>
 <li>Windows Server 2012 (x86/x64)</li>
 <li>Windows Server 2016 (x86/x64)</li>
 </ul>
