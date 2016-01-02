@@ -1,20 +1,15 @@
 # messyboot-5.2-release-nt6
 Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
     <title>Messyboot-5.2-release-nt6 by MessyBoot</title>
   </head>
-
   <body>
-
     <header>
       <div class="container">
         <h1>Messyboot-5.2-release-nt6</h1>
@@ -39,7 +34,7 @@ Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
 <h2>
 <a id="for-windows-based-pcs" class="anchor" href="#for-windows-based-pcs" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Windows based PCs</h2>
 
-<p>MessyBoot is a collection of drivers, tools, diagnostics &amp; utilities for Windows based PCs.
+<p>MessyBoot is a collection of drivers, tools, diagnostics &amp; utilities for Windows based PCs.</p>
 <img src="https://avatars1.githubusercontent.com/u/16509998?v=3&amp;s=200" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows W7, W8, W8.1, W10, Vista"></p>
 
 <p>MessyBoot has two different functions;</p>
