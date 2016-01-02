@@ -10,19 +10,6 @@ Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
     <title>Messyboot-5.2-release-nt6 by MessyBoot</title>
   </head>
   <body>
-    <header>
-      <div class="container">
-        <h1>Messyboot-5.2-release-nt6</h1>
-        <h2>Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/MessyBoot/messyboot-5.2-release-nt6/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/MessyBoot/messyboot-5.2-release-nt6/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/MessyBoot/messyboot-5.2-release-nt6" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
     <div class="container">
       <section id="main_content">
         <h1>
@@ -35,7 +22,7 @@ Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
 <a id="for-windows-based-pcs" class="anchor" href="#for-windows-based-pcs" aria-hidden="true"><span class="octicon octicon-link"></span></a>for Windows based PCs</h2>
 
 <p>MessyBoot is a collection of drivers, tools, diagnostics &amp; utilities for Windows based PCs.</p>
-<img src="https://avatars1.githubusercontent.com/u/16509998?v=3&amp;s=200" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows W7, W8, W8.1, W10, Vista"></p>
+<img src="https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10590498_1537280476582555_6803261797527356853_n.jpg?oh=efb68bc515c0474c3a813798f51a6e9c&oe=5707C045" alt="MessyBoot Boot Tools, Diagnostics, utilities &amp; Drivers for Windows W7, W8, W8.1, W10, Vista"></p>
 
 <p>MessyBoot has two different functions;</p>
 
@@ -45,7 +32,6 @@ Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
 <p><em>These are tools that are accessible directly by booting to the DVD.</em></p>
 
 <p><strong>The Boot Tools Include:</strong></p>
-
 <ul>
 <li>Password Removal / Recovery</li>
 <li>Disk Tools (Diagnostics / Rejuvenators / Data Recovery / Secure Erase)</li>
@@ -63,13 +49,14 @@ Release Repo: MessyBoot 5.2 for Windows Vista, W7, W8, W8.1, W10
 <em>(Can be run from within the Mini-Windows 7 image in the Bootable Tools menu).</em></p>
 
 <p><strong>The Windows Tools Include:</strong>
-Hardware Testing Tools
-Software Analysis Tools
-Driverpack Installer System
-Drivers Backup System
-Various Benchmarking Packages
-Data Recovery Tools
-Much much more!</p>
+<ul>
+<li>Hardware Testing Tools</li>
+<li>Software Analysis Tools</li>
+<li>Driverpack Installer System</li>
+<li>Drivers Backup System</li>
+<li>Various Benchmarking Packages</li>
+<li>Data Recovery Tools</li>
+<li>Much much more!</li></ul></p>
 
 <h3>
 <a id="supported-os" class="anchor" href="#supported-os" aria-hidden="true"><span class="octicon octicon-link"></span></a>Supported OS:</h3>
