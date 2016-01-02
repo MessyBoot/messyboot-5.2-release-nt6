@@ -1,10 +1,9 @@
-
 <html>
   <body>
     <div class="container">
       <section id="main_content">
         <h1>
-<a id="messyboot-52-windows-nt6-build" class="anchor" href="#messyboot-52-windows-nt6-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT6 Build</h1>
+<a id="messyboot-52-windows-nt6-build" class="anchor" href="#messyboot-52-windows-nt6-build" aria-hidden="true"><span class="octicon octicon-link"></span></a>MessyBoot 5.2 Windows NT6 Build</h1><h4>Full Release</h4>
 
 <h2>
 <a id="boot-tools-diagnostics-utilities--drivers" class="anchor" href="#boot-tools-diagnostics-utilities--drivers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Boot Tools, Diagnostics, Utilities &amp; Drivers</h2>
